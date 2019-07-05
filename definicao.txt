@@ -1,0 +1,6 @@
+    Uma expresão regular é um objeto que descreve um padrão de caracteres.
+    As expressões regulares são usadas para executar pattern-matching* 
+e funções "procurar e substituir" no texto.
+
+
+*pattern-matching => correspondência de padrãos.

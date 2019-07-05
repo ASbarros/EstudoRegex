@@ -1,0 +1,5 @@
+/pattern/modifiers
+
+/pattern/ => é uma expressão regular.
+modifiers => é um modificador.
+pattern => é um padrão (para ser usado na pesquisa).

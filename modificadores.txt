@@ -1,0 +1,5 @@
+    Modificadores são usados para realizar pesquisas maiúsculas e minúsculas e globais.
+
+    g => encontra todas as correspondências, em vez de parar na primeira.
+    i => case-insensitive (não diferenciar maiúsculas ou minúsculas).
+    m => excuta correspondência de multiplas linhas
