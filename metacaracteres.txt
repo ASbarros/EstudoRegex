@@ -1,0 +1,2 @@
+    Um metacaracter é um caracter ou sequência de caracteres com significado especial 
+em expressões regulares. Os metacaracteres podem ser categorizados conforme seu uso.
